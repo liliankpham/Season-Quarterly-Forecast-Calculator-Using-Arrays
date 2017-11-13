@@ -1,0 +1,10 @@
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\bin\Debug\Season.Quarterly.Forecast.Using.Arrays.exe.config
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\bin\Debug\Season.Quarterly.Forecast.Using.Arrays.exe
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\bin\Debug\Season.Quarterly.Forecast.Using.Arrays.pdb
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.csprojResolveAssemblyReference.cache
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.Form1.resources
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.Properties.Resources.resources
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.csproj.GenerateResource.Cache
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.csproj.CoreCompileInputs.cache
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.exe
+c:\users\lilian\source\repos\Season.Quarterly.Forecast.Using.Arrays\Season.Quarterly.Forecast.Using.Arrays\obj\Debug\Season.Quarterly.Forecast.Using.Arrays.pdb
